@@ -26,8 +26,8 @@ In a preliminary work, we integrated the samples data into a RDF triplestore and
  > <sub>Louarn, M., Chatonnet, F., Garnier, X., Fest, T., Siegel, A., Dameron, O.: **Increas-ing life science resources re-usability using semantic web technologies.** In: Proceed-ings of the 15th IEEE International eScience conference, San Diego (2019)</sub>
 
 
-The paper associated with is resource is currently under review:
-> <sub>Louarn, M., Chatonnet, F., Garnier, X., Fest, T., Siegel, A., Faron, C., Dameron O. : **Increasing Life Science Studies’ Data, Pipeline and Results Reusability Using Semantic Web Technologies: the Regulatory Circuits Case Study** IN REVIEW for ISWC (2020)</sub>
+The paper associated with is available at:
+> <sub>Louarn, M., Chatonnet, F., Garnier, X. et al. : **Improving reusability along the data life cycle: a regulatory circuits case study.** J Biomed Semant 13, 11 (2022). https://doi.org/10.1186/s13326-022-00266-4</sub>
 
 
 We acknowledge the [GenOuest bioinformatics core facility](https://www.genouest.org) for providing the computing infrastructure. And the research teams of the authors of this project [Dyliss team](https://www-dyliss.irisa.fr/), [Mic-Mac](https://micmac.univ-rennes1.fr/), [Sparks](http://sparks.i3s.unice.fr/) and [Wimmics](https://team.inria.fr/wimmics/).
